@@ -1,6 +1,6 @@
 # Calculator
 
-## 📖 Description
+## Description
 A simple console-based calculator program written in Python.  
 It allows users to perform basic arithmetic operations including:
 - Addition (`+`)
@@ -13,7 +13,7 @@ The program runs in a loop until the user types `exit`.
 
 ---
 
-## ✨ Features
+## Features
 - Perform calculations using `+`, `-`, `*`, `/`, or `sqrt`
 - Type `exit` anytime to quit
 - Error handling for:
@@ -24,12 +24,12 @@ The program runs in a loop until the user types `exit`.
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
-### 📌 Requirements:
+### Requirements:
 - Python 3.15 installed on your computer
 
-### 📦 Steps:
+### Steps:
 1. Clone this repository or download the project files.
 2. Open your terminal or command prompt.
 3. Navigate to the project directory.
